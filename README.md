@@ -18,3 +18,11 @@ pip install keyboard
 
 ![2](https://github.com/kinite-gp/CSGO-GLOW-EXTERNAL/blob/main/pic/2.png "2")
 ![3](https://github.com/kinite-gp/CSGO-GLOW-EXTERNAL/blob/main/pic/3.png "3")
+
+## run
+
+```commandline
+
+python glow.py
+
+```
